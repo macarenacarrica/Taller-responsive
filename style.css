@@ -1,5 +1,5 @@
 .navbar {
-    background-color: #6c757d;
+    background-color: #4a025e;
 }
 
 h2 {
@@ -13,7 +13,7 @@ h2 {
 
 .col-md-6, .col-sm-12, .col-lg-4 {
     text-align: justify;
-    background-color: #f8f9fa;
+    background-color: #eed4ea;
 }
 
 .row {
@@ -21,14 +21,14 @@ h2 {
 }
 
 .opciones {
-    border: 1px solid #ccc;
+    border: 1px solid #803473;
     border-radius: 5px;
     padding: 15px;
     text-decoration: underline;
 }
 
 #no {
-    background-color: white;
+    background-color: rgb(165, 135, 165);
 }
 
 .navbar-nav > li {
